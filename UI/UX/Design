@@ -1,0 +1,7 @@
+UX Design
+
+There are three main situations in which users of your application could see an empty screen or an empty state:
+
+First-time usage when there is no data we can show to a new user (ex.: empty timeline)
+Clear state (ex.: empty inbox, list with no items)
+Errors (ex.: no internet connection)
